@@ -17,4 +17,4 @@ npm run build
 
 ---
 
-Live Link: (add your Netlify link here)
+Live Link: https://popx-react-app1.netlify.app/
